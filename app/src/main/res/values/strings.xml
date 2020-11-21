@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">CoronaVirus2</string>
     <string name="titre">CONSEILS</string>
+    <string name="resultat">resultat</string>
     <string name="titre2">RESULTAT</string>
     <string name="btn">Test</string>
     <string name="demmarer">Demmarer le test</string>
