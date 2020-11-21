@@ -1,5 +1,4 @@
-package com.hajer.coronavirus;
-
+package com.dsi31g5.coronavirus2;
 
 
 import androidx.appcompat.app.AppCompatActivity;
