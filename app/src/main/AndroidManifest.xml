@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     package="com.dsi31g5.coronavirus2">
 
     <application
@@ -10,15 +11,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.CoronaVirus2">
         <activity android:name=".questionnaire"></activity>
-        <activity android:name=".information" />
-        <activity android:name=".resultatnegatif" />
+        <activity android:name=".information"/>
+        <activity android:name=".resultatnegatif"/>
+        <activity android:name=".resultatpositif"
+            tools:ignore="DuplicateActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
     </application>
-
 </manifest>
