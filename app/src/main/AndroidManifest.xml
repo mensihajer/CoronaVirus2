@@ -11,6 +11,7 @@
         android:theme="@style/Theme.CoronaVirus2">
         <activity android:name=".questionnaire"></activity>
         <activity android:name=".information" />
+        <activity android:name=".resultatnegatif" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
