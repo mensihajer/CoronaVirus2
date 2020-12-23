@@ -184,7 +184,7 @@
                     android:layout_height="wrap_content"
                     android:textSize="20dp"
                     android:layout_margin="15dp"
-                    android:text="Saluez sans serrer la main, n'embrassez personne."
+                    android:text="@string/c7"
                     tools:layout_editor_absoluteX="154dp"
                     tools:layout_editor_absoluteY="264dp" />
             </androidx.appcompat.widget.LinearLayoutCompat>
