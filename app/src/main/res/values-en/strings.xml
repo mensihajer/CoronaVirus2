@@ -26,4 +26,12 @@
         <string name="q9">Are you a pregnant woman in the 3rd trimester of your pregnancy?</string>
         <string name="q10">Do you have cirrhosis?</string>
         <string name="terminer">Finish</string>
-    </resources>
+        <string name="resultatnigative">Your condition does not appear to be of concern or is probably not COVID 19.</string>
+        <string name="titre2">RESULT</string>
+        <string name="rq">The recommendation displayed may change depending on information from health authorities and researchers. It does not constitute medical advice. If in doubt, ask your doctor or pharmacist for advice.</string>
+        <string name="resultatnegatif">Negative result</string>
+
+
+
+
+</resources>
