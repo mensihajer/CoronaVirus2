@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <?xml version="1.0" encoding="utf-8"?>
+    <resources>
+        <string name="app_name">CoronaVirus2</string>
+        <string name="titre">ADVICE</string>
+        <string name="txt">How to protect yourself and others on a daily basis?</string>
+        <string name="c1">Respect social distancing measures as much as possible.</string>
+        <string name="c2">Wear a mask.</string>
+        <string name="c3">Limit social interactions, some people transmit the virus without noticing symptoms.</string>
+        <string name="c4">Wash your hands very regularly.</string>
+        <string name="c5">Cough or sneeze into your elbow or a tissue.</string>
+        <string name="c6">Use a disposable tissue and throw it away.</string>
+        <string name="c7">Greet without shaking hands, do not kiss anyone.</string>
+        <string name="btn">Test</string>
+        <string name="information">Information</string>
+        <string name="Txtinfo">This is an application which helps the operator to know if he shows signs of a Corona virus virus and causes symptoms by filling out a form after that it tells you if you have symptoms of this virus or not.</string>
+        <string name="demmarer">Start the test</string>
+        <string name="q1">What was your warmest temperature in the past 48 hours?</string>
+        <string name="q2">In the past few days, have you had a cough or has your usual cough changed?</string>
+        <string name="q3">In the past few days, have you noticed a loss or a sharp decrease in your taste or smell?</string>
+        <string name="q4">In the past few days, have you had a sore throat and / or unusual muscle aches and / or body aches and / or unusual headaches?</string>
+        <string name="q5">Have you had unusual fatigue in the past few days?</string>
+        <string name="q6">For 24 hours or more, have you been unable to eat or drink?</string>
+        <string name="q7">In the past 24 hours, have you noticed any unusual shortness of breath when speaking or making a little effort?</string>
+        <string name="q8">Do you have unbalanced diabetes or with complications (eyes, kidneys)?</string>
+        <string name="q9">Are you a pregnant woman in the 3rd trimester of your pregnancy?</string>
+        <string name="q10">Do you have cirrhosis?</string>
+        <string name="terminer">Finish</string>
+    </resources>
+</resources>
