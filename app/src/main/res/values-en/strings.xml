@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <?xml version="1.0" encoding="utf-8"?>
-    <resources>
+
         <string name="app_name">CoronaVirus2</string>
         <string name="titre">ADVICE</string>
         <string name="txt">How to protect yourself and others on a daily basis?</string>
@@ -10,7 +9,7 @@
         <string name="c3">Limit social interactions, some people transmit the virus without noticing symptoms.</string>
         <string name="c4">Wash your hands very regularly.</string>
         <string name="c5">Cough or sneeze into your elbow or a tissue.</string>
-        <string name="c6">Use a disposable tissue and throw it away.</string>
+        <string name="c6">Use a disposable tissue and throw it away..</string>
         <string name="c7">Greet without shaking hands, do not kiss anyone.</string>
         <string name="btn">Test</string>
         <string name="information">Information</string>
@@ -28,4 +27,3 @@
         <string name="q10">Do you have cirrhosis?</string>
         <string name="terminer">Finish</string>
     </resources>
-</resources>
