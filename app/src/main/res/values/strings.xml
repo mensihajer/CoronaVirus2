@@ -15,7 +15,7 @@
     <string name="q8">Avez-vous un diabète mal équilibré ou avec des complications (yeux, reins) ?</string>
     <string name="q9">Êtes-vous une femme enceinte au 3ème trimestre de votre grossesse ?</string>
     <string name="q10">Avez-vous une cirrhose ?</string>
-    <string name="fermer">Fermer</string>
+    <string name="fermer" translatable="false">Fermer</string>
     <string name="terminer">Terminer</string>
     <string name="c7"> Saluez sans serrer la main, n\'embrassez personne.</string>
     <string name="information">Informations</string>
@@ -29,6 +29,6 @@
     <string name="c6">Utilisez un mouchoir à usage unique et jetez-le.</string>
     <string name="rq">La recommandation affichée peut évoluer suivant les informations en provenance des autorités de santé et des chercheurs. Elle ne constitue pas un avis médical. En cas de doute, demandez conseil à votre médecin ou pharmacien.</string>
     <string name="resultatnigative">Votre état ne semble pas préoccupant ou ne relève probablement pas du COVID 19.</string>
-    <string name="resultatpositif">Votre situation peut relever d’un COVID 19. Vos symptômes nécessitent une prise en charge rapide.</string>
-    <string name="fin">Merci pour votre confiance, nous souhaitons santé et bien-étre à tous</string>
+    <string name="resultatpositif" translatable="false">Votre situation peut relever d’un COVID 19. Vos symptômes nécessitent une prise en charge rapide.</string>
+    <string name="fin" translatable="false">Thank you for your trust, we wish health and well-being to all</string>
 </resources>

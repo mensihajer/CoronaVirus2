@@ -30,8 +30,8 @@
         <string name="titre2">RESULT</string>
         <string name="rq">The recommendation displayed may change depending on information from health authorities and researchers. It does not constitute medical advice. If in doubt, ask your doctor or pharmacist for advice.</string>
         <string name="resultatnegatif">Negative result</string>
-
-
+        <string name="fermer" translatable="false">Finish</string>
+        <string name="resultatpositif" translatable="false">Your situation may be a COVID 19.Your symptoms require prompt management.</string>
 
 
 </resources>
