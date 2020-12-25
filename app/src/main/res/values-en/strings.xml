@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
         <string name="app_name">CoronaVirus2</string>
         <string name="titre">ADVICE</string>
         <string name="txt">How to protect yourself and others on a daily basis?</string>
@@ -32,6 +31,4 @@
         <string name="resultatnegatif">Negative result</string>
         <string name="fermer" translatable="false">Finish</string>
         <string name="resultatpositif" translatable="false">Your situation may be a COVID 19.Your symptoms require prompt management.</string>
-
-
 </resources>
