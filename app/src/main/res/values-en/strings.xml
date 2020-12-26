@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
         <string name="app_name">CoronaVirus2</string>
+        <!--  **************************** interface activity_main *************************-->
         <string name="titre">ADVICE</string>
         <string name="txt">How to protect yourself and others on a daily basis?</string>
         <string name="c1">Respect social distancing measures as much as possible.</string>
@@ -11,9 +12,11 @@
         <string name="c6">Use a disposable tissue and throw it away..</string>
         <string name="c7">Greet without shaking hands, do not kiss anyone.</string>
         <string name="btn">Test</string>
+        <!--  **************************** interface activity_information *************************-->
         <string name="information">Information</string>
         <string name="Txtinfo">This is an application which helps the operator to know if he shows signs of a Corona virus virus and causes symptoms by filling out a form after that it tells you if you have symptoms of this virus or not.</string>
         <string name="demmarer">Start the test</string>
+        <!--  **************************** interface activity_quesstionnaire *************************-->
         <string name="q1">What was your warmest temperature in the past 48 hours?</string>
         <string name="q2">In the past few days, have you had a cough or has your usual cough changed?</string>
         <string name="q3">In the past few days, have you noticed a loss or a sharp decrease in your taste or smell?</string>
@@ -25,10 +28,14 @@
         <string name="q9">Are you a pregnant woman in the 3rd trimester of your pregnancy?</string>
         <string name="q10">Do you have cirrhosis?</string>
         <string name="terminer">Finish</string>
-        <string name="resultatnigative">Your condition does not appear to be of concern or is probably not COVID 19.</string>
+        <!--  **************************** interface activity_resultatnegatif *************************-->
         <string name="titre2">RESULT</string>
         <string name="rq">The recommendation displayed may change depending on information from health authorities and researchers. It does not constitute medical advice. If in doubt, ask your doctor or pharmacist for advice.</string>
-        <string name="resultatnegatif">Negative result</string>
-        <string name="fermer" translatable="false">Finish</string>
-        <string name="resultatpositif" translatable="false">Your situation may be a COVID 19.Your symptoms require prompt management.</string>
+        <string name="resultatnigative">Your condition does not appear to be of concern or is probably not COVID 19.</string>
+        <!--  **************************** interface activity_resultatpositif *************************-->
+        <string name="resultatpositif">Your situation may be a COVID 19.Your symptoms require prompt management.</string>
+        <!--  **************************** interface activity_fin *************************-->
+        <string name="fermer">To close</string>
+        <string name="fin">Thank you for your trust, we wish health and well-being to all</string>
+
 </resources>
