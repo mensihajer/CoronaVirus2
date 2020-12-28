@@ -37,5 +37,27 @@
         <!--  **************************** interface activity_fin *************************-->
         <string name="fermer">To close</string>
         <string name="fin">Thank you for your trust, we wish health and well-being to all</string>
+        <!--  **************************** interface inscription *************************-->
+        <string name="inscription">Registration</string>
+        <string name="name">Last name</string>
+        <string name="prenom">First name</string>
+        <string name="email">E-mail</string>
+        <string name="password">Password</string>
+        <string name="inscrire">Sign Up</string>
+        <string name="account"> you have account?</string>
+        <string name="connecter">Sign In</string>
+        <string name="nomO">Last Name is Required!</string>
+        <string name="prenomO">First Name is Required!</string>
+        <string name="emailO">Email is Required!</string>
+        <string name="emailOO">Please enter a Valid E-Mail Address!</string>
+        <string name="pass">Password is Required!</string>
+        <string name="passs">Password Must be >= 6 characters!</string>
+        <string name="us">User Created</string>
+        <!--  **************************** interface login *************************-->
+        <string name="authz">Authentication</string>
+        <string name="naccount">you haven\'t account?</string>
+        <string name="cn">Logged în successful!</string>
+
+
 
 </resources>

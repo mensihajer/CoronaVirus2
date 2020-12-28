@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "407795315088",
+    "project_id": "coronavirus2-cc931",
+    "storage_bucket": "coronavirus2-cc931.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407795315088:android:a6ecce272f41a2f4950315",
+        "android_client_info": {
+          "package_name": "com.dsi31g5.coronavirus2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407795315088-v88djoripg01aq8ig9ppq846cnjs30r3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIVFwT3sJ4I8FRngaPwOm2z_SeFrjm6-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407795315088-v88djoripg01aq8ig9ppq846cnjs30r3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
