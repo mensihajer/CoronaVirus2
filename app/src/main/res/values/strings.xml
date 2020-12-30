@@ -56,6 +56,11 @@
     <string name="authz">Authentification</string>
     <string name="naccount">vous n\'avez pas de compte?</string>
     <string name="cn">Connexion réussie!</string>
+    <string name="action_settings" />
+    <string name="action_home" />
+    <string name="action_search" />
+    <string name="action_item_a" />
+    <string name="action_item_b" />
 
 
 </resources>
