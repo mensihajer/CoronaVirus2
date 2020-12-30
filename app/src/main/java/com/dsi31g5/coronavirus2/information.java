@@ -28,6 +28,7 @@ public class information extends AppCompatActivity {
         Intent intent = new Intent(this, questionnaire.class);
         startActivity(intent);
     }
+    @SuppressLint("ResourceType")
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         getMenuInflater().inflate(R.layout.menu_main, menu);
