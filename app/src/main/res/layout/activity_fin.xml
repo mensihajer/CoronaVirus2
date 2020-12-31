@@ -5,6 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".fin">
+    <include layout="@layout/toolbar"/>
     <LinearLayout xmlns:app="http://schemas.android.com/apk/res-auto"
         tools:context=".MainActivity"
         android:orientation="vertical"
@@ -35,7 +36,7 @@
             tools:layout_editor_absoluteX="154dp"
             tools:layout_editor_absoluteY="264dp" />
         <Button
-            android:id="@+id/button"
+            android:id="@+id/fin"
             android:layout_width="175dp"
             android:layout_height="50dp"
             android:layout_gravity="center_horizontal"

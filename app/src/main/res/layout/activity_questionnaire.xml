@@ -17,13 +17,13 @@
             xmlns:tools="http://schemas.android.com/tools"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:layout_margin="10dp"
             android:orientation="vertical"
             tools:context=".MainActivity">
-
+            <include layout="@layout/toolbar"/>
             <ImageView
                 android:id="@+id/imageView7"
                 android:layout_width="match_parent"
+                android:layout_marginTop="10dp"
                 android:layout_height="match_parent"
                 android:src="@drawable/qttt" />
 
@@ -50,6 +50,7 @@
 
             <EditText
                 android:layout_width="150dp"
+                android:id="@+id/q1"
                 android:layout_height="70dp"
                 android:layout_gravity="center_horizontal"
                 android:layout_marginTop="10dp"
@@ -81,13 +82,13 @@
             <RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:id="@+id/q2"
                 android:layout_marginLeft="100dp"
-
-
                 android:orientation="horizontal">
 
                 <RadioButton
                     android:id="@+id/radio_pirates"
+
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Yes"
@@ -128,7 +129,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="100dp"
-
+                android:id="@+id/q3"
                 android:orientation="horizontal">
 
                 <RadioButton
@@ -171,7 +172,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="100dp"
-
+                android:id="@+id/q4"
                 android:orientation="horizontal">
 
                 <RadioButton
@@ -214,7 +215,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="100dp"
-
+                android:id="@+id/q5"
                 android:orientation="horizontal">
 
                 <RadioButton
@@ -256,6 +257,7 @@
             <RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:id="@+id/q6"
                 android:layout_marginLeft="100dp"
                 android:orientation="horizontal">
 
@@ -298,6 +300,7 @@
             <RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:id="@+id/q7"
                 android:layout_marginLeft="100dp"
                 android:orientation="horizontal">
 
@@ -341,6 +344,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="100dp"
+                android:id="@+id/q8"
                 android:orientation="horizontal">
 
                 <RadioButton
@@ -383,6 +387,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="100dp"
+                android:id="@+id/q9"
                 android:orientation="horizontal">
 
                 <RadioButton
@@ -424,6 +429,7 @@
             <RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:id="@+id/q10"
                 android:layout_marginLeft="100dp"
                 android:orientation="horizontal">
 
@@ -443,13 +449,14 @@
             </RadioGroup>
 
             <Button
-                android:id="@+id/button"
+                android:id="@+id/btn"
                 android:layout_width="200dp"
                 android:layout_height="60dp"
                 android:layout_gravity="center_horizontal"
                 android:layout_margin="15dp"
                 android:text="@string/terminer"
                 android:textSize="25dp"
+                android:onClick="envoyer"
                 app:backgroundTint="#3F51B5"
                 tools:layout_editor_absoluteX="122dp"
                 tools:layout_editor_absoluteY="610dp" />
